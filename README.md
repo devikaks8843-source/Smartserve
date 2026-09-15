@@ -4,25 +4,25 @@ SmartServe is a web-based service management platform that connects users with l
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
-### 👤 User Features
+###  User Features
 - **User Registration & Login**: Account creation and secure login.
 - **Service Browsing & Booking**: View available service providers and book time slots.
 - **Booking Management**: View past and active bookings, payment status, and service details.
 
-### 🛠️ Service Provider Features
+###  Service Provider Features
 - **Provider Registration**: Register profile details and upload verification certificates.
 - **Verification Status**: Account activation requires admin approval.
 - **Booking Management**: View assigned bookings and update completion status.
 
-### 🛡️ Admin Features
+###  Admin Features
 - **Provider Verification**: Review submitted certificates and approve or reject service providers.
 - **Platform Analytics & Overviews**: Monitor all users, providers, bookings, and payment transactions.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend**: Python, Flask, PyMongo, Werkzeug, Gunicorn
 - **Frontend**: HTML5, CSS3, JavaScript, Jinja2 Templates
@@ -30,7 +30,7 @@ SmartServe is a web-based service management platform that connects users with l
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 smartserve/
@@ -55,7 +55,7 @@ smartserve/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -94,6 +94,6 @@ smartserve/
 
 ---
 
-## 📝 License
+##  License
 
 This project is developed for educational and demonstration purposes.
